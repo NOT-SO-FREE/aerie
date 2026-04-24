@@ -9,10 +9,10 @@ export const metadata: Metadata = {
   description: 'Claim Your Aerie Rewards',
   icons: {
     icon: {
-      url: '/favicon.ico',
-      type: 'image/x-icon',
+      url: '/favicon.webp',
+      type: 'image/webp',
     },
-    shortcut: '/favicon.ico',
+    shortcut: '/favicon.webp',
   },
 };
 
