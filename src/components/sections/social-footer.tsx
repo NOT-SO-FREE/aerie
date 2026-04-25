@@ -9,21 +9,21 @@ const SocialFooter = () => {
           aria-label="LinkedIn"
           className="w-7 h-7 hover:bg-primary/90 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg shadow-xl bg-primary"
         >
-          <Linkedin className="w-3 h-3 text-foreground" />
+          <Linkedin className="w-3 h-3 text-white" />
         </a>
         <a
           href="https://www.facebook.com/Aerie"
           aria-label="Facebook"
           className="w-7 h-7 hover:bg-primary/90 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg shadow-xl bg-primary"
         >
-          <Facebook className="w-3 h-3 text-foreground" />
+          <Facebook className="w-3 h-3 text-white" />
         </a>
         <a
           href="https://www.instagram.com/aerie/"
           aria-label="Instagram"
           className="w-7 h-7 hover:bg-primary/90 rounded-full flex items-center justify-center transition-all duration-300 hover:scale-110 hover:shadow-lg shadow-xl bg-primary"
         >
-          <Instagram className="text-foreground !w-3 !h-3" />
+          <Instagram className="text-white !w-3 !h-3" />
         </a>
       </div>
       <footer className="text-[#173827] text-[9px]">
